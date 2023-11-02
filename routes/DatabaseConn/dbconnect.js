@@ -1,8 +1,8 @@
 
 const config ={
-    "user": "yashvip",
-    "password": "yashvip@2023",
-    "server": "WINMSSQL\\SQLEXPRESS",
+    "user": "test",
+    "password": "test@2023",
+    "server": "servername",
     "database": "testdb_2023",
     "options": {
       "encrypt": false
